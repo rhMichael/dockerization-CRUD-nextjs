@@ -1,0 +1,27 @@
+body {
+    background-color: grey;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.login-div {
+    border-radius: 5px;
+    padding: 50px;
+    background-color: white;
+    margin-top: 20vh;
+    width: 30%;
+}
+
+.input-div {
+    margin-bottom: 20px;
+    column-gap: 5px;
+}
+
+.logo-title {
+    margin: 10px auto;
+}
